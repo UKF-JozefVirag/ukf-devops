@@ -24,7 +24,5 @@ spec:
             items:
               - key: nginx.conf
                 path: nginx.conf
-              - key: virtualhost.conf
-                path: virtualhost/virtualhost.conf
         - name: log
           emptyDir: { }

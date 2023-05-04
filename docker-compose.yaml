@@ -1,0 +1,7 @@
+version: "2"
+
+services:
+  web:
+    image: jvirag/lastproj
+    ports:
+      - "8080:80"
